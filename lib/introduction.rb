@@ -1,4 +1,5 @@
 require "spec_helper"
+it "takes in an argument of a name and puts out a phrase with that name using string interpolation" do
 
 
 
